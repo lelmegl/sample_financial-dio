@@ -2,7 +2,7 @@
 Instrutora: Juliana Mascarenhas
 
 
-Neste projeto foram praticadas as funções gráficas do Power BI como primeiro contato da plataforma, onde interagimos com um banco de dados que está disponibilizado como sample, para demonstrar relações entre alguns dados por meio de gráficos, formando um Dashboard.
+Neste projeto foram praticadas as funções gráficas do Power BI como primeiro contato da plataforma, onde interagimos com um banco de dados que está disponibilizado como sample, para demonstrar relações entre alguns dados por meio de gráficos, formando um relatório.
 
 ## Descrição do desafio: 
 Vamos para o primeiro desafio com Power BI? Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada.
