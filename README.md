@@ -1,5 +1,7 @@
 # Analisando dados de um Dashboard de Vendas no Power BI
 Instrutora: Juliana Mascarenhas
+
+
 Neste projeto foram praticadas as funções gráficas do Power BI como primeiro contato da plataforma, onde interagimos com um banco de dados que está disponibilizado como sample, para demonstrar relações entre alguns dados por meio de gráficos, formando um Dashboard.
 
 ## Descrição do desafio: 
